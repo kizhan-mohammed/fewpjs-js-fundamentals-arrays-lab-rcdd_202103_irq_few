@@ -7,4 +7,5 @@ let pets = ["Milo", "Otis", "Garfield"];
 
   pets.pop("");
 
+  pets.shift("");
 
