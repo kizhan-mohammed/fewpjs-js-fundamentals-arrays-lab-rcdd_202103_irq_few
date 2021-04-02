@@ -6,5 +6,5 @@ let pets = ["Milo", "Otis", "Garfield"];
   pets.unshift("Odie");
 
   pets.pop("");
-;
+
 
