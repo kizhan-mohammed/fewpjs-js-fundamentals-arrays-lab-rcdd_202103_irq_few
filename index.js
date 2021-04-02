@@ -1,11 +1,15 @@
 // Write your solution here!
-let pets = ["Milo", "Otis", "Garfield"];
 
-  pets.push("Odie");
+let append = ["Milo", "Otis", "Garfield"];
+let prepend = ["Milo", "Otis", "Garfield"];
+let removeLast = ["Milo", "Otis", "Garfield"];
+let removeFirst = ["Milo", "Otis", "Garfield"];
 
-  pets.unshift("Odie");
+  append.push("Odie");
 
-  pets.pop("");
+  prepend.unshift("Odie");
 
-  pets.shift("");
+  removeLast.pop("");
+
+  removeFirst.shift("");
 
